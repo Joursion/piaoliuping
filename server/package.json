@@ -1,0 +1,26 @@
+{
+  "name": "piaoliuping",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa": "1.1.2",
+    "koa-bodyparser": "2.0.1",
+    "koa-cors": "latest",
+    "koa-router": "*",
+    "mongodb": "^2.2.5",
+    "mongoose": "^4.4.0",
+    "node-uuid": "*",
+    "redis": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "koa"
+  ],
+  "author": "joursion",
+  "license": "ISC"
+}
